@@ -2,3 +2,13 @@
 => SQL stands for Structured Query Language
 => SQL lets you access and manipulate databases
 => SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987
+
+
+2) What can SQL do?
+=> execute queries against a database
+=> retrieve data from a database
+=> insert,update,delete records from a database
+=> create new table and database
+=> create stored procedures in a database
+=> create views in a database
+=> set permissions on tables, procedures, and views
